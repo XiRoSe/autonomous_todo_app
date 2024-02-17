@@ -1,5 +1,5 @@
 
-# ToDo Application
+# ToDo Application Generator and Enhancer
 
 ## Overview
 This is a simple ToDo application with a FastAPI backend and a SQLite database.
